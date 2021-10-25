@@ -23,3 +23,7 @@ Limitations of this Dataset
 Other Tables or Graphs
 
 - What are some other possible tables and/or graphs that we could create? One type of table that could be created that might be useful to help with future funding would be a chart with success rates, failed rates, along with canceled rates, with the period that was open for each funding. Maybe if the funding period had been extended more failed or canceled shows would have been able to meet pledge goals. I did find the pivot table to be the most helpful at viewing the data. 
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/91567484/138702607-b452e004-233a-4f5f-9fe9-1e067e06826f.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/91567484/138702625-da3e1fcc-8a33-48ed-9394-cda8ecd76456.png)
+
